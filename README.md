@@ -9,7 +9,7 @@
 <h1>About Me 📌</h1>
 
 - 👋 Hi, I’m Faris Abufarha
-- 🎓 I am studying Computer Engineering, major in Computer engineering.
+- 🎓 I am studying Computer Engineering.
 
 - 📫 Reach Me through farisabufarha33@gmail.com
 <br /> 
