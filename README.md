@@ -2,8 +2,8 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=280&section=header&text=YO!%20👋&fontSize=90)
 --->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=YO%20!%20%F0%9F%91%8B&fontSize=90)
-<!-- <img width="220" align="left" src="https://toppng.com/uploads/preview/itachi-shippuden-115507248811otwgj6dku.png"/> -->
-![removed](https://user-images.githubusercontent.com/70337488/193404072-24fd65f7-542d-4979-b6ac-847747f334b7.png)
+<!-- <img width="220" align="left" src="![removed](https://user-imags.githubusercontent.com/70337488/193404072-24fd65f7-542d-4979-b6ac-847747f334b7.png)
+"/> -->
 
 
  
