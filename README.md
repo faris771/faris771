@@ -74,6 +74,6 @@
 <h2 align="center">Let's Connect <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h2> 
 <p align="center">
   <a href = "mailto:farisabufarha33@gmail.com"><img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height = 30></a>
-    
+   <a href="https://www.linkedin.com/in/maria-eduarda-d-218822219//(https://www.linkedin.com/in/faris-abufarha-630115252/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
