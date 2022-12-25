@@ -20,20 +20,25 @@
 <!-- <h2 align="center"> Tech Stack 👨‍💻</h2> -->
 
 <br>
+<h2 align="center"> 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = "32"> </h2>
+ <br>
+ 
 
+
+ ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Git badge](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white) ![Github badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![Linux badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black ) ![HTML5 badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3 badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
+
+ 
 <!-- -->
-<img align="right" height="175" src="https://camo.githubusercontent.com/8cfcf8317613181b4f1cc4dec2940420fc9f14ea75d9bfb54a71a78cf8d1afc2/68747470733a2f2f692e696d6775722e636f6d2f67427850366f4a2e676966" data-canonical-src="https://i.imgur.com/gBxP6oJ.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+<!-- <center> -->
+<img align="center" width="100%" src="https://camo.githubusercontent.com/8cfcf8317613181b4f1cc4dec2940420fc9f14ea75d9bfb54a71a78cf8d1afc2/68747470733a2f2f692e696d6775722e636f6d2f67427850366f4a2e676966" data-canonical-src="https://i.imgur.com/gBxP6oJ.gif"  data-target="animated-image.originalImage">
+ 
+<!-- </center> -->
 <br>
 
 <!-- -->
 
-<h2 align="center"> 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = "32"> </h2>
- 
 
- ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Git badge](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white) ![Github badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![Linux badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black ) ![HTML5 badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3 badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
-
-
-<br />
+<br>
 <h2 align="center"> Quick Overview 📈</h2>
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=faris771&show_icons=true&count_private=true&locale=en&layout=compact&langs_count=10&hide_border=true&bg_color=151515&title_color=FB8C00&text_color=fff&icon_color=fff" alt = "faris771's Languages/Frameworks" width = 400 />
