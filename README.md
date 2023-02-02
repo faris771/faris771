@@ -10,8 +10,11 @@
 
 - 👋 Hi, I’m Faris Abufarha
 - 🎓 I am studying Computer Engineering.
-
-- 📫 Reach Me through farisabufarha33@gmail.com
+-
+```diff
+-👀 I'm looking for an internship for this summer
+```
+- 📫 Reach Me through farisabufarha33@gmail.com, or through my <a href="https://www.linkedin.com/in/faris-abufarha-630115252/">linked in</a>
 <br /> 
 
 <br>
