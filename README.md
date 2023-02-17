@@ -80,3 +80,8 @@
    <a href="https://www.linkedin.com/in/faris-abufarha-630115252//" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
+
+
+<!--   grid-snake -->
+![](https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake.svg)
+
