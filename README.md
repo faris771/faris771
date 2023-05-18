@@ -1,7 +1,6 @@
-<!---
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=280&section=header&text=YO!%20👋&fontSize=90)
---->
-<!---
+
+<!--- anime girl
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=YO%20!%20%F0%9F%91%8B&fontSize=90)
 <img width="220" align="left" src="https://i.ibb.co/fp02qgy/image-removebg-preview-7.png"/>
 -->
