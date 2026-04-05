@@ -9,7 +9,6 @@
 <h1>About Me 📌</h1>
 
 - 👋 Hi, I’m Faris Abufarha
-- 🎓 I am studying Computer Engineering.
 - 📫 Reach Me through farisabufarha33@gmail.com, or through my <a href="https://www.linkedin.com/in/faris-abufarha/">linked in</a>
 <br /> 
 
